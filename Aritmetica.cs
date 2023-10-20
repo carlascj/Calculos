@@ -9,4 +9,9 @@ namespace Calculos {
             return x + y;
         }
     }
+
+    public int Subtrair(int x, int y)
+    {
+        return x - y;
+    }
 }
